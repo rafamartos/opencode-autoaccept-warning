@@ -3,9 +3,7 @@
 A small **OpenCode V2 CLI plugin** that makes automatic permission approval
 harder to overlook, without changing your theme.
 
-```text
-⚠ AUTO ACCEPT
-```
+![OpenCode terminal showing the bright yellow AUTO ACCEPT warning in the prompt footer](docs/autoaccept.png)
 
 The indicator appears in **bold, bright yellow** at the start of the prompt
 footer's status area. It disappears in `prompt` mode. An unreadable or invalid
